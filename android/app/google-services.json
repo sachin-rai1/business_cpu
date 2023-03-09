@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666364750426",
+    "project_id": "business-cpu-bf6e4",
+    "storage_bucket": "business-cpu-bf6e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666364750426:android:0d84ebe5a7d4ab30558663",
+        "android_client_info": {
+          "package_name": "com.arrowmuse.business_cpu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666364750426-u1lf796ke3ju6o1i510orhljhuc43hth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaZ1rjyuNBgIRChbLx2UpKGcseCF5Gc7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666364750426-u1lf796ke3ju6o1i510orhljhuc43hth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
